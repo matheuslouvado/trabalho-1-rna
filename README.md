@@ -1,7 +1,7 @@
 # trabalho-1-rna
 
 Primeiro trabalho da disciplina de Redes Neurais Artificiais da Universidade Tecnológica Federal do Paraná - 2020. 
-Treinamento de redes neurais para 6 datasets diferentes, provenientes do Kaggle e do site da UCI. O framework escolhido foi Tensorflow 2.
+Treinamento de redes neurais para 6 datasets diferentes, provenientes do Kaggle e do site da UCI (com algumas alterações). O framework escolhido foi Tensorflow 2.
 
 
 Alunos: Matheus Louvado C. da Silva e Gabriel Rocha Stanzione
