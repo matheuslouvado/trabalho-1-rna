@@ -14,3 +14,9 @@ http://archive.ics.uci.edu/ml/datasets/Iris/
 https://archive.ics.uci.edu/ml/datasets/vertebral+column
 
 
+### Datasets do Kaggle:
+https://www.kaggle.com/primaryobjects/voicegender
+
+https://www.kaggle.com/aungpyaeap/fish-market
+
+https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
